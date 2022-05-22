@@ -1,0 +1,23 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+ul{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 30px;
+    margin: 20px;
+    background-color: rgb(98, 239, 98);
+    text-decoration: none;
+    color: black;
+    border-radius: 10px;
+}
+li {
+    text-decoration: none;
+    list-style: none;
+}
+.berry {
+    text-align: center;
+}
